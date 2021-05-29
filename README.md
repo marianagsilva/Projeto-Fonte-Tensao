@@ -5,6 +5,6 @@
 
 
 Alunos:
-Mariana de Lourdes Godoy da Silva
-Gustavo Siqueira Barbosa 
-Ana Beatriz Araujo Ferreira 
+- Mariana de Lourdes Godoy da Silva
+- Gustavo Siqueira Barbosa 
+- Ana Beatriz Araujo Ferreira 
