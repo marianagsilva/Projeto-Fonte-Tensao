@@ -10,6 +10,7 @@ Alunos:
 ### Projeto e simulação no Falstad:
 
 ![circuit-20210801-0928](https://user-images.githubusercontent.com/32443360/127772648-b18b0ee1-d02a-4978-82b9-3e16def6467b.png)
+
 [Link para o circuito](https://tinyurl.com/ydrcjp7r)
 
 ### Objetivo dos componentes
