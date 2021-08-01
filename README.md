@@ -1,6 +1,6 @@
 # SSC0180 - Eletrônica para Computação // Projeto - Fonte de Tensão
 
-## Especificações do projeto: projetar e construir uma fonte de tensão ajustável de 3V á 12V com capacidade de 100mA.* 
+## Especificações do projeto: projetar e construir uma fonte de tensão ajustável de 3V á 12V com capacidade de 100mA 
 
 Alunos:
 - Mariana de Lourdes Godoy da Silva
@@ -65,4 +65,7 @@ Os componentes do circuito são, da esquerda para a direita:
 | Diodo Zener              | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html)    | R$    |
 | Potenciômetro            | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)    | R$    |
 |VALOR TOTAL               | R$ |
+
+### Circuito esquemático e Placa de Ciruito Impresso (PCB)
+
 
