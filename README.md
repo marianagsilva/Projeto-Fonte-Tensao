@@ -65,7 +65,7 @@ Os componentes do circuito são, da esquerda para a direita:
 | Resistor 1.2KΩ           | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-1k2-5-2w.html)     | R$ 0,38 |
 | Diodo Zener              | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html)    | R$ 1,34 |
 | Potenciômetro            | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)    | R$ 1,99 |
-|VALOR TOTAL               | R$ |
+|VALOR TOTAL               | R$ 46,12 |
 
 ### Circuito esquemático e Placa de Ciruito Impresso (PCB)
 
