@@ -70,3 +70,11 @@ Os componentes do circuito são, da esquerda para a direita:
 ### Circuito esquemático e Placa de Ciruito Impresso (PCB)
 
 
+![Esquemático.png](https://raw.githubusercontent.com/marianagsilva/Projeto-Fonte-Tensao/main/Esquem%C3%A1tico.png)
+
+![Board.jpg](https://raw.githubusercontent.com/marianagsilva/Projeto-Fonte-Tensao/main/Board.jpg)
+
+
+
+
+
