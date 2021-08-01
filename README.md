@@ -56,15 +56,15 @@ Os componentes do circuito são, da esquerda para a direita:
 ### Tabela de componentes e valores
 |        COMPONENTE        |QTD| LINK | VALOR UNITÁRIO |
 |:------------------------:|---|------|----------------|
-| Transformador            | 1 |[Baú da Eletrônica](https://eletronicagpl.com.br/produto/transformador-hayama-181-18v18v-1a-bivolt/)| R$ 40,00  |
-| Diodos                   | 4 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/diodo-1n4004.html) | R$    |
-| Capacitor 620uF          | 1 |[Mercado Livre](https://produto.mercadolivre.com.br/MLB-1777842290-capacitor-eletrolitico-7x-680uf-x-25v-3x-470uf-x-25v-105-_JM#position=6&search_layout=grid&type=item&tracking_id=4ae0b597-7503-403c-a6e1-cb694ebc05a3) | R$    |
-| LED                      | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)|R$    |
-| Resistor 1KΩ             | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)     | R$    |
-| Resistor 100Ω            | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-100r-5-1-4w.html)     | R$    |
-| Resistor 1.2KΩ           | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-100r-5-1-4w.html)     | R$    |
-| Diodo Zener              | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html)    | R$    |
-| Potenciômetro            | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)    | R$    |
+| Transformador            | 1 |[Baú da Eletrônica](https://eletronicagpl.com.br/produto/transformador-hayama-181-18v18v-1a-bivolt/)| R$ 40,00 |
+| Diodos                   | 4 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/diodo-1n4004.html) | R$ 0,12 |
+| Capacitor 620uF          | 1 |[Mercado Livre](https://produto.mercadolivre.com.br/MLB-1777842290-capacitor-eletrolitico-7x-680uf-x-25v-3x-470uf-x-25v-105-_JM#position=6&search_layout=grid&type=item&tracking_id=4ae0b597-7503-403c-a6e1-cb694ebc05a3) | R$ 1,90 |
+| LED                      | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/led-difuso-3mm-vermelho.html)|R$ 0,18 |
+| Resistor 1KΩ             | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-1k0-1-2w.html)     | R$ 0,14 |
+| Resistor 100Ω            | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-100r-5-1-4w.html)     | R$ 0,07 |
+| Resistor 1.2KΩ           | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/resistor-1k2-5-2w.html)     | R$ 0,38 |
+| Diodo Zener              | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html)    | R$ 1,34 |
+| Potenciômetro            | 1 |[Baú da Eletrônica](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)    | R$ 1,99 |
 |VALOR TOTAL               | R$ |
 
 ### Circuito esquemático e Placa de Ciruito Impresso (PCB)
