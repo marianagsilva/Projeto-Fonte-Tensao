@@ -72,7 +72,7 @@ Os componentes do circuito são, da esquerda para a direita:
 
 ![Esquemático.png](https://raw.githubusercontent.com/marianagsilva/Projeto-Fonte-Tensao/main/Esquem%C3%A1tico.png)
 
-![Board.jpg](https://raw.githubusercontent.com/marianagsilva/Projeto-Fonte-Tensao/main/Board.jpg)
+![photo_2021-08-02_17-04-38.jpg](https://raw.githubusercontent.com/marianagsilva/Projeto-Fonte-Tensao/main/photo_2021-08-02_17-04-38.jpg)
 
 
 ## Alunos
