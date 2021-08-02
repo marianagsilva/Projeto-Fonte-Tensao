@@ -74,6 +74,10 @@ Os componentes do circuito são, da esquerda para a direita:
 
 ![photo_2021-08-02_17-04-38.jpg](https://raw.githubusercontent.com/marianagsilva/Projeto-Fonte-Tensao/main/photo_2021-08-02_17-04-38.jpg)
 
+## Vídeo do circuito
+
+[Link para o vídeo](https://www.wevideo.com/view/2266192321)
+
 
 ## Alunos
 - Mariana de Lourdes Godoy da Silva
